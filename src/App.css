@@ -326,6 +326,10 @@ h1 {
     justify-content: center;
   }
 
+  .myimg{
+    width:100%;
+  }
+
   .mybtn{
     background-color: red;
     border-radius: 30px ;
