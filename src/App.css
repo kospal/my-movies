@@ -408,7 +408,9 @@ h1 {
   }
 
   .myimg{
-    width: 90%;
+    width: 100%;
+    margin-right:5px;
+    margin-left:5px;
   }
 
   h1 {
