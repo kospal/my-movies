@@ -403,7 +403,7 @@ h1 {
   }
 
   .myimg{
-    width: 100%;
+    width: 100% !important;
   }
 
   .movie-container {
